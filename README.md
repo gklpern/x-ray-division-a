@@ -40,5 +40,4 @@ The goal is to build a multi-label classification model for chest X-ray images.
 
 ---
 
-## Repository Structure
 
